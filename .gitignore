@@ -17,6 +17,10 @@ coverage.*
 *.coverprofile
 profile.cov
 
+# Generated libsrvint and emulator build artifacts
+build/
+internal/srvint/third_party/
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
